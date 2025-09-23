@@ -1,8 +1,14 @@
 # Hi there 👋, I'm Tabshir Khandaker (tabslvss)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabshir-khandaker-5b4b6328b)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tabslvss)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.faangpath.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabshir-khandaker-5b4b6328b) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tabslvss) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.faangpath.com)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tabslvss&show_icons=true&theme=midnight-purple" alt="Tabshir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabslvss&layout=compact&theme=midnight-purple" alt="Top Langs" />
+</p>
 
 ---
 
@@ -50,14 +56,6 @@ Troll obby with 300k visits, leveraging advanced Lua scripting and interactive g
 ### [Let Him Cook – AI Dietitian](https://github.com/tabslvss)  
 *Founder, Full-Stack Developer | 2024*  
 AI-powered calorie tracker and meal planner. Provides personalized diet goals, recipes, and meal prep suggestions using AI algorithms.
-
----
-
-## 📈 GitHub Stats
-
-[![Tabshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabslvss&show_icons=true&theme=midnight-purple)](https://github.com/tabslvss)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabslvss&layout=compact&theme=midnight-purple)](https://github.com/tabslvss)  
 
 ---
 
