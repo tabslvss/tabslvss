@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋, I'm Tabshir Khandaker
 
-<!--
-**tabslvss/tabslvss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabshir-khandaker-5b4b6328b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Website](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://fiqh.us)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I’m a **Computer Science student at University at Buffalo**, specializing in **full-stack, mobile, and game development**. I’m passionate about creating **AI-powered applications, immersive games, and practical software solutions**.  
+
+Some highlights of my work:
+- Founder of **FiqhAI** – iOS prayer app & AI assistant ([fiqh.us](https://fiqh.us))
+- Roblox Game Developer: Viral games **"MOVEMENT!"** (100k+ visits) & **"Jump For Admin"** (1.1M visits)
+- Samsung Electronics Student Ambassador: Strategic content creation & campaign growth
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+Python | Java | C++ | C# | Swift | JavaScript | Lua
+
+### Frameworks & Tools
+React.js | SwiftUI | Flask | Roblox Studio | Git/GitHub | Docker | Firebase | OpenAI API
+
+---
+
+## 🚀 Projects
+
+### [FiqhAI](https://fiqh.us)
+*Founder, iOS Developer | Jan 2025 – Present*  
+AI-powered Islamic guidance assistant using GPT-4o Mini. Provides reliable answers with sources for Islamic questions.
+
+### [Fiqh Muslim Prayer App](https://apps.apple.com)
+*iOS Developer | Jan 2023 – Present*  
+Prayer app optimized for ad-free user experience with prayer times, Qibla direction, and interactive widgets.
+
+### [MOVEMENT! – Roblox Game](https://www.roblox.com/games/)
+*Game Developer | 2024*  
+Viral Roblox game with unique camera effects and immersive gameplay. 100k+ visits.
+
+### [Jump For Admin – Roblox Game](https://www.roblox.com/games/)
+*Game Developer | 2022*  
+Independently developed a Roblox game that surpassed **1.1M visits**.
+
+---
+
+## 📈 GitHub Stats
+[![Tabshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple)](https://github.com/YOUR_USERNAME)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [Tabshir Khandaker](https://www.linkedin.com/in/tabshir-khandaker-5b4b6328b)  
+- Portfolio: [fiqh.us](https://fiqh.us)  
+
+---
+
+> "Code is like prayer; the more you practice, the better your results."  
+
