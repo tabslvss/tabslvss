@@ -7,7 +7,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tabslvss&show_icons=true&theme=midnight-purple" alt="Tabshir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabslvss&layout=compact&theme=midnight-purple" alt="Top Langs" />
 </p>
 
 ---
@@ -61,8 +60,6 @@ AI-powered calorie tracker and meal planner. Provides personalized diet goals, r
 
 ## 📫 Contact Me
 - LinkedIn: [Tabshir Khandaker](https://www.linkedin.com/in/tabshir-khandaker-5b4b6328b)  
-- Portfolio: [FAANGPath](https://www.faangpath.com)  
-
 ---
 
 > "Code is like prayer; the more you practice, the better your results."
