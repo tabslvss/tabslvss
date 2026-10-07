@@ -26,25 +26,6 @@ I design and build software, and I have been writing code since I was 13, starti
 | **4.5M+** | visits across my Roblox games |
 | **$35,000+** | revenue from Roblox game development |
 
-## Projects
-
-### [FiqhAI](https://fiqh.us) &nbsp;|&nbsp; iOS and Web &nbsp;|&nbsp; 2023 - Present
-Islamic guidance with sourced answers, as simple as asking a question. Founder and lead developer. 10,000+ users and 100+ daily users.
-
-### [Let Him Cook](https://theappcooks.com) &nbsp;|&nbsp; iOS and Web &nbsp;|&nbsp; 2024
-Calorie tracking, meal plans, and recipes: personalized nutrition in one place. Founder.
-
-### [Fiqh Prayer](https://apps.apple.com/us/app/fiqh/id6741080676) &nbsp;|&nbsp; Native iOS &nbsp;|&nbsp; 2023 - Present
-Prayer times, a Qibla compass, and widgets. Quiet and ad-free. Built with Swift and WidgetKit.
-
-### [Boba Minecraft Server Host Tool](https://github.com/tabslvss/boba-minecraft-server-host) &nbsp;|&nbsp; Electron, Node.js &nbsp;|&nbsp; Open source
-Free Minecraft server host for Windows with no port forwarding, a permanent playit.gg address, Paper/Fabric/Forge/NeoForge support, Modrinth modpacks, a live console, file explorer, and backups.
-
-## Experience
-
-- **Founder and Lead Developer, FiqhAI** (2023 - Present)
-- **Game Developer, Roblox** (2020 - Present): 4.5M+ visits and $35,000+ in revenue
-
 ## Tech stack
 
 <p>
